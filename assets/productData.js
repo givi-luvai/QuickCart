@@ -6,7 +6,7 @@ export const products = [
     name: "Apple Earphones",
     description: "Noise-cancellation, 40-hour battery",
     rating: 4.5,
-    price: "$299.99",
+    price: "kes800",
     imgSrc: assets.apple_earphone_image,
   },
   {
@@ -14,7 +14,7 @@ export const products = [
     name: "Bose QuietComfort 45",
     description: "Noise Cancellation, 24-hour battery",
     rating: 4.5,
-    price: "$329.99",
+    price: "kes500",
     imgSrc: assets.bose_headphone_image,
   },
   {
@@ -22,7 +22,7 @@ export const products = [
     name: "Samsung Galaxy S23",
     description: "Fitness Tracking, AMOLED Display",
     rating: 4.5,
-    price: "$799.99",
+    price: "kes19000",
     imgSrc: assets.samsung_s23phone_image,
   },
   {
@@ -46,7 +46,7 @@ export const products = [
     name: "Canon EOS R5",
     description: "45MP Sensor, 8K Video Recording",
     rating: 4.5,
-    price: "$3,899.99",
+    price: "kes150,000",
     imgSrc: assets.cannon_camera_image,
   },
   {
@@ -54,7 +54,7 @@ export const products = [
     name: "MacBook Pro 16",
     description: "M2 Pro Chip, 16GB RAM, 512GB SSD",
     rating: 4.5,
-    price: "$2,499.99",
+    price: "kes24999",
     imgSrc: assets.macbook_image,
   },
   {
